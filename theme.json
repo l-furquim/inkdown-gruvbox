@@ -1,0 +1,21 @@
+{
+  "name": "Gruvbox",
+  "author": "l-furquim",
+  "description": "A retro groove color scheme with dark and light variants",
+  "variants": [
+    {
+      "id": "gruvbox-dark",
+      "name": "Gruvbox Dark",
+      "mode": "dark",
+      "cssFile": "gruvbox-dark.css"
+    },
+    {
+      "id": "gruvbox-light", 
+      "name": "Gruvbox Light",
+      "mode": "light",
+      "cssFile": "gruvbox-light.css"
+    }
+  ],
+  "version": "1.0.0",
+  "homepage": ""
+}

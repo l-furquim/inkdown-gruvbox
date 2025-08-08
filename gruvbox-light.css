@@ -1,0 +1,124 @@
+html[data-theme="gruvbox-light"],
+html[data-theme="gruvbox-light"] *,
+[data-theme="gruvbox-light"] {
+  color-scheme: light;
+  
+  --theme-primary: #af3a03;
+  --theme-primary-foreground: #fbf1c7;
+  --theme-secondary: #f2e5bc;
+  --theme-secondary-foreground: #3c3836;
+  --theme-background: #fbf1c7;
+  --theme-foreground: #3c3836;
+  --theme-muted: #f2e5bc;
+  --theme-muted-foreground: #7c6f64;
+  --theme-accent: #ebdbb2;
+  --theme-accent-foreground: #3c3836;
+  --theme-border: #d5c4a1;
+  --theme-input: #fbf1c7;
+  --theme-ring: #af3a03;
+  --theme-destructive: #cc241d;
+  --theme-destructive-foreground: #fbf1c7;
+  
+  --theme-sidebar-background: #f2e5bc;
+  --theme-sidebar-foreground: #3c3836;
+  --theme-sidebar-border: #d5c4a1;
+  --theme-sidebar-hover: #ebdbb2;
+  --theme-sidebar-active: #d5c4a1;
+
+  --theme-editor-background: #fbf1c7;
+  --theme-editor-foreground: #3c3836;
+  --theme-editor-selection: #d5c4a133;
+  --theme-editor-cursor: #3c3836;
+  --theme-editor-border: #d5c4a1;
+  --theme-editor-line-number: #7c6f64;
+  --theme-editor-active-line: #f2e5bc;
+  --theme-editor-scrollbar: #d5c4a1;
+  
+
+  --syntax-keyword: #9d0006;
+  --syntax-string: #79740e;
+  --syntax-number: #8f3f71;
+  --syntax-comment: #7c6f64;
+  --syntax-strong: #3c3836;
+  --syntax-emphasis: #3c3836;
+  --syntax-heading: #b57614;
+  --syntax-heading-h1: #cc241d;
+  --syntax-heading-h2: #d65d0e;
+  --syntax-heading-h3: #b57614;
+  --syntax-heading-h4: #79740e;
+  --syntax-heading-h5: #427b58;
+  --syntax-heading-h6: #076678;
+  --syntax-link: #076678;
+  --syntax-url: #076678;
+  --syntax-strikethrough: #7c6f64;
+  --syntax-monospace: #8f3f71;
+  --syntax-monospace-bg: #f2e5bc;
+  --syntax-atom: #427b58;
+  --syntax-bool: #8f3f71;
+  --syntax-regexp: #af3a03;
+  --syntax-meta: #7c6f64;
+  --syntax-punctuation: #7c6f64;
+
+  --inkdown-editor-bg: #fbf1c7;
+  --inkdown-editor-fg: #3c3836;
+  --inkdown-editor-selection: #d5c4a133;
+  --inkdown-editor-cursor: #3c3836;
+  --inkdown-editor-border: #d5c4a1;
+  --inkdown-editor-line-number: #7c6f64;
+  --inkdown-editor-active-line: #f2e5bc;
+  --inkdown-editor-scrollbar: #d5c4a1;
+
+  --inkdown-syntax-keyword: #9d0006;
+  --inkdown-syntax-string: #79740e;
+  --inkdown-syntax-number: #8f3f71;
+  --inkdown-syntax-comment: #7c6f64;
+  --inkdown-syntax-strong: #3c3836;
+  --inkdown-syntax-emphasis: #3c3836;
+  --inkdown-syntax-link: #076678;
+  --inkdown-syntax-url: #076678;
+  --inkdown-syntax-strikethrough: #7c6f64;
+  --inkdown-syntax-monospace: #8f3f71;
+  --inkdown-syntax-monospace-bg: #f2e5bc;
+
+  --inkdown-heading-h1: #cc241d;
+  --inkdown-heading-h2: #d65d0e;
+  --inkdown-heading-h3: #b57614;
+  --inkdown-heading-h4: #79740e;
+  --inkdown-heading-h5: #427b58;
+  --inkdown-heading-h6: #076678;
+
+  --inkdown-syntax-atom: #427b58;
+  --inkdown-syntax-bool: #8f3f71;
+  --inkdown-syntax-regexp: #af3a03;
+  --inkdown-syntax-meta: #7c6f64;
+  --inkdown-syntax-punctuation: #7c6f64;
+  --inkdown-syntax-list: #7c6f64;
+  --inkdown-syntax-quote: #7c6f64;
+  --inkdown-syntax-separator: #7c6f64;
+
+  --inkdown-editor-font-family: "JetBrains Mono", "SF Mono", Monaco, "Cascadia Code", "Roboto Mono", Consolas, monospace;
+  --inkdown-editor-mono-font-family: "JetBrains Mono", "SF Mono", Monaco, "Cascadia Code", "Roboto Mono", Consolas, monospace;
+  --inkdown-editor-font-size: 14px;
+  --inkdown-editor-line-height: 1.6;
+  --inkdown-editor-padding: 16px;
+
+  --inkdown-heading-font-weight: bold;
+  --inkdown-heading-line-height: 1.3;
+  --inkdown-heading-h1-size: 2em;
+  --inkdown-heading-h2-size: 1.5em;
+  --inkdown-heading-h3-size: 1.25em;
+  --inkdown-heading-h4-size: 1.1em;
+  --inkdown-heading-h5-size: 1.05em;
+  --inkdown-heading-h6-size: 1em;
+
+  --inkdown-code-font-size: 0.9em;
+  --inkdown-code-padding: 2px 4px;
+  --inkdown-code-border-radius: 3px;
+
+  --inkdown-quote-border-width: 4px;
+  --inkdown-quote-padding-left: 12px;
+  --inkdown-quote-margin-left: 4px;
+
+  --inkdown-scrollbar-width: 8px;
+  --inkdown-scrollbar-border-radius: 4px;
+}
