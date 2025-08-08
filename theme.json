@@ -7,13 +7,13 @@
       "id": "gruvbox-dark",
       "name": "Gruvbox Dark",
       "mode": "dark",
-      "cssFile": "gruvbox-dark.css"
+      "cssFile": "dark.css"
     },
     {
       "id": "gruvbox-light", 
       "name": "Gruvbox Light",
       "mode": "light",
-      "cssFile": "gruvbox-light.css"
+      "cssFile": "light.css"
     }
   ],
   "version": "1.0.0",
